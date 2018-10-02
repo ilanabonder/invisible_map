@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  vertical-align: center;
+  font-family: 'Gothic A1', sans-serif;
+}
+
+#content{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+}
+
+#button2{
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  text-align: center;
+  display: none;
+}
+
+#city-inputs{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  /*width: 100px;*/
+  text-align: center;
+}
